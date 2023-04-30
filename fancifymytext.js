@@ -1,3 +1,5 @@
+// Ryan Jin | Assignment 5
+
 function displayAlert() {
 	document.getElementById("myText").style.fontSize = "24pt";
 }
